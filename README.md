@@ -39,7 +39,6 @@ This yields **specialization per example** with **minimal parameter overhead** (
 - **Hierarchical routing**: **Audio-MoE → MoA** (coarse acoustic/domain choice → generation/format refinement).
 - **Single-model, multi-task**: handles diagnosis, severity-style outputs, and regression targets.
 - **Robustness-oriented**: designed to generalize across **recording conditions** and **question intents**.
-- **Routing analysis tools**: inspect expert usage, detect routing collapse, and run forced-route ablations.
 
 ---
 This code utilize the [OPERA framework](https://github.com/evelyn0414/OPERA)[1] for the audio encoding, and you can put this directory under `src/benchmark`. 
