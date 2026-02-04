@@ -1,7 +1,7 @@
 # RAMoEA-QA: Hierarchically Routed Generative Respiratory Audio Question Answering
 
 <p align="center">
-  <img src="architecture.png" alt="RAMoEA-QA Overview" width="860"/>
+  <img src="architecture.jpg" alt="RAMoEA-QA Overview" width="860"/>
 </p>
 
 <p align="center">
