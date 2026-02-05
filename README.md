@@ -41,8 +41,7 @@ This yields **specialization per example** with **minimal parameter overhead** (
 - **Robustness-oriented**: designed to generalize across **recording conditions** and **question intents**.
 
 ---
-This code utilize the [OPERA framework](https://github.com/evelyn0414/OPERA)[1] for the audio encoding, and you can put this directory under `src/benchmark`. 
-This code utilize the [RA-QA](Bertolino_Zang_Xia_Talia_Mascolo_2026,)[2] dataset.
+This code utilize the [OPERA framework](https://github.com/evelyn0414/OPERA)[1] for the audio encoding, and you can put this directory under `src/benchmark`, and the [RA-QA](Bertolino_Zang_Xia_Talia_Mascolo_2026,)[2] dataset.
 
 
 
