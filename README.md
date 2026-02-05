@@ -1,11 +1,11 @@
-# RAMoEA-QA: Hierarchically Routed Generative Respiratory Audio Question Answering
+# RAMoEA-QA: Hierarchical Specialization for Robust Respiratory Audio Question Answering
 
 <p align="center">
   <img src="architecture.jpg" alt="RAMoEA-QA Overview" width="860"/>
 </p>
 
 <p align="center">
-  <b>Generative RA-QA with two-stage conditional specialization:</b><br/>
+  <b>Generative respiratory-audio question-asnwering with two-stage conditional specialization:</b><br/>
   <i>Audio Mixture-of-Experts</i> (select 1 audio encoder) + <i>Language Mixture-of-Adapters</i> (select 1 LoRA on a frozen LLM)
 </p>
 
@@ -22,7 +22,7 @@
 
 ## 🔥 What is RAMoEA-QA?
 
-**RAMoEA-QA** is a **hierarchical generative** multimodal model for **Respiratory Audio Question Answering (RA-QA)** that **unifies multiple question types** (open-ended, single-verify, multiple-choice) and supports **both discrete labels and continuous targets** in a single system.
+**RAMoEA-QA** is a **hierarchical generative** multimodal model for **Respiratory Audio Question Answering** that **unifies multiple question types** (open-ended, single-verify, multiple-choice) and supports **both discrete labels and continuous targets** in a single system.
 
 Instead of a single monolithic pathway, RAMoEA-QA applies a **per-example two-stage conditional specialization**:
 
