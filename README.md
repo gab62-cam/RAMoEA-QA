@@ -42,9 +42,9 @@ This yields **specialization per example** with **minimal parameter overhead** (
 
 ---
 This code utilize the [OPERA framework](https://github.com/evelyn0414/OPERA)[1] for the audio encoding, and you can put this directory under `src/benchmark`. 
-This code utilize the [RA-QA][2] dataset.
+This code utilize the [RA-QA](Bertolino_Zang_Xia_Talia_Mascolo_2026,)[2] dataset.
 
 
 
 [1] Zhang, Yuwei, et al. "Towards Open Respiratory Acoustic Foundation Models: Pretraining and Benchmarking." arXiv preprint arXiv:2406.16148 (2024).
-[2]
+[2] Bertolino, G. A., et al. "RA-QA: Towards Respiratory Audio-based Health Question Answering." Zenodo. https://doi.org/10.5281/zenodo.18489541
