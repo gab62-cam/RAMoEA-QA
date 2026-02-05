@@ -13,7 +13,7 @@
   <!-- Replace placeholders below with your actual links -->
   <!-- <a href="https://arxiv.org/abs/XXXX.XXXXX">Paper</a> •-->
   
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-yellow?logo=huggingface&logoColor=yellow)](https://huggingface.co/gab62-cam/RAMoEA-QA)
+<!--[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-yellow?logo=huggingface&logoColor=yellow)](https://huggingface.co/gab62-cam/RAMoEA-QA)-->
  <!-- <a href="#citation">Citation</a> •
   <a href="#reproducing-paper-results">Reproduce</a>-->
 </p> 
