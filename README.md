@@ -8,15 +8,15 @@
   <b>Generative RA-QA with two-stage conditional specialization:</b><br/>
   <i>Audio Mixture-of-Experts</i> (select 1 audio encoder) + <i>Language Mixture-of-Adapters</i> (select 1 LoRA on a frozen LLM)
 </p>
-<!--
+
 <p align="center">
-  <!-- Replace placeholders below with your actual links
-  <a href="https://arxiv.org/abs/XXXX.XXXXX">Paper</a> •
-  <a href="https://huggingface.co/USERNAME/MODEL_NAME">Hugging Face</a> •
-  <a href="#citation">Citation</a> •
-  <a href="#reproducing-paper-results">Reproduce</a>
+  <!-- Replace placeholders below with your actual links -->
+  <!-- <a href="https://arxiv.org/abs/XXXX.XXXXX">Paper</a> •-->
+  
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-yellow?logo=huggingface&logoColor=yellow)](https://huggingface.co/gab62-cam/RAMoEA-QA)
+ <!-- <a href="#citation">Citation</a> •
+  <a href="#reproducing-paper-results">Reproduce</a>-->
 </p> 
-  -->
 
 ---
 
